@@ -47,14 +47,14 @@ h1 {
 }
 
 .wallpaper1 {
-  background-image: url(../img/win10/win10-1.jpeg);
+  background-image: url(win10-1.jpeg);
   background-size: 810px;
   background-repeat: no-repeat;
   border: solid 5px black;
 }
 
 .wallpaper2 {
-  background-image:  url(../img/win10/win10-2.jpg);
+  background-image:  url(win10-2.jpg);
   background-repeat: no-repeat;
   background-position-y: -30px ;
   background-size: 820px;
@@ -62,7 +62,7 @@ h1 {
 }
 
 .wallpaper3 {
-  background-image:  url(../img/win10/win10-3.jpeg);
+  background-image:  url(win10-3.jpeg);
   background-repeat: no-repeat;
   background-position-y: -30px ;
   background-size: 820px;
@@ -70,7 +70,7 @@ h1 {
 }
 
 .wallpaper4 {
-  background-image:  url(../img/win10/win10-4.jpg);
+  background-image:  url(win10-4.jpg);
   background-repeat: no-repeat;
   background-position-y: -30px ;
   background-size: 820px;
@@ -78,7 +78,7 @@ h1 {
 }
 
 .wallpaper5 {
-  background-image:  url(../img/win10/win10-5.jpeg);
+  background-image:  url(win10-5.jpeg);
   background-repeat: no-repeat;
   background-position-y: -30px ;
   background-size: 820px;
@@ -86,7 +86,7 @@ h1 {
 }
 
 .wallpaper6 {
-  background-image:  url(../img/win10/win10-6.jpeg);
+  background-image:  url(win10-6.jpeg);
   background-repeat: no-repeat;
   background-position-y: -30px ;
   background-size: 820px;
